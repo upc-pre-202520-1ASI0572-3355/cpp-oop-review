@@ -1,0 +1,3 @@
+D:/DV/pro/UPC/20251/Desarrollo de Soluciones IOT/Semana 01/cpp-oop-review-master/cmake-build-debug/CMakeFiles/cpp_oop_review.dir
+D:/DV/pro/UPC/20251/Desarrollo de Soluciones IOT/Semana 01/cpp-oop-review-master/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/DV/pro/UPC/20251/Desarrollo de Soluciones IOT/Semana 01/cpp-oop-review-master/cmake-build-debug/CMakeFiles/rebuild_cache.dir
