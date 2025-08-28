@@ -40,7 +40,7 @@ Following is the class diagram for the project, illustrating the relationships b
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/<your-username>/cpp-oop-review.git
+   git clone https://github.com/upc-pre-202520-1ASI0572-3355/cpp-oop-review.git
    cd cpp-oop-review
    ```
 2. **Create a Build Directory**:
